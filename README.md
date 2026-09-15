@@ -1,0 +1,1 @@
+# statfulset_with_pod
